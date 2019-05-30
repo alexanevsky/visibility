@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0">
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+		<!-- <script src="../dist/visibility.min.js"></script> -->
+		<script src="../dist/visibility.js"></script>
+	</head>
+	<body>
+
+		<script>function foo() { }</script>
+
+		<div style="width: 200px; margin: 0 auto; padding: 50px 0;">
+			<p>
+				<a href="#" onclick="$('#visibility').visibilityToggle(); return false;">Toggle</a>
+				&middot;
+				<a href="#" onclick="$('#visibility').visibilityShow(); return false;">Show</a>
+				&middot;
+				<a href="#" onclick="$('#visibility').visibilityHide(); return false;">Hide</a>
+			</p>
+			<p id="visibility">
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus voluptatem cum provident aperiam ad deleniti maiores debitis, tempore quis voluptate adipisci dignissimos. Atque cumque voluptatibus sit architecto tenetur, perferendis aperiam.
+			</p>
+			<p>Text below.</p>
+		</div>
+
+	</body>
+</html>
