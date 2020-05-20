@@ -1,4 +1,4 @@
-# jQuery Visibility <sup>[1.0.0](https://github.com/alexanevsky/visibility/blob/master/CHANGELOG.md)</sup>
+# jQuery Visibility <sup>[1.0.1](https://github.com/alexanevsky/visibility/blob/master/CHANGELOG.md)</sup>
 
 Worked as FadeToggle() and SlideToggle().
 
