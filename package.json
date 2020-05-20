@@ -1,0 +1,34 @@
+{
+  "name": "@alexanevsky/jquery-visibility",
+  "version": "1.0.0",
+  "description": "Add jQuery effects visibilityShow(), visibilityHide(), visibilityToggle()",
+  "main": "dist/visibility.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanevsky/visibility.git"
+  },
+  "keywords": [
+    "jquery",
+    "slideup",
+    "slidedown",
+    "fadein",
+    "fadeout",
+    "slidetoggle",
+    "fadetoogle",
+    "slide",
+    "fade",
+    "visible",
+    "visibility",
+    "show",
+    "hide"
+  ],
+  "author": "Alexanevsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexanevsky/visibility/issues"
+  },
+  "homepage": "https://github.com/alexanevsky/visibility#readme"
+}
